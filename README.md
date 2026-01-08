@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm building my data-analytics skill set and learning SQL, Python, Power BI to become a data analyst.<br>I'm eager to collaborate on entry-level data projects and need help landing my first Data Analyst job.
+I'm building my data-analytics skill set and learning SQL, Python, Power BI.<br>I'm eager to collaborate on entry-level data projects and need help landing my first Data Analyst job.
 
 
 ## 🌐 Socials:
